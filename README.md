@@ -5,7 +5,6 @@
 ## 🎤 Features
 - **OPUS Audio Encoding**: High-quality voice recordings using the **OPUS** codec for clear sound.
 - **Telegram & WhatsApp Inspired UI**: A familiar and intuitive interface that merges features from **Telegram** and **WhatsApp** for ease of use.
-- **Record and Share**: Effortlessly record voice messages and share them with friends or groups.
 - **Playback Support**: Listen to your recordings directly within the app.
 - **Easy-to-use Interface**: Minimalist design that prioritizes user experience.
 
