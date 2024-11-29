@@ -21,7 +21,7 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/voice-recorder.git
+   git clone https://github.com/AliBehrouzinia/voice-recorder.git
 
 
 ### ![image](https://user-images.githubusercontent.com/47349044/98267896-2243da80-1fa1-11eb-8d83-78c0146ff80c.jpg)
